@@ -1,1 +1,1 @@
-# snippets4zty README
+# snippets4vscode README

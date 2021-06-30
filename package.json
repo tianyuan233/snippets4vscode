@@ -1,6 +1,6 @@
 {
-    "name": "snippets4zty",
-    "displayName": "snippets4zty",
+    "name": "snippets4vscode",
+    "displayName": "Snippets",
     "description": "some snippets for develop",
     "version": "0.0.1",
     "engines": {
@@ -14,10 +14,6 @@
             {
                 "language": "vue",
                 "path": "./snippets/vue.json"
-              },
-              {
-                "language": "jade",
-                "path": "./snippets/vue-pug.json"
               },
               {
                 "language": "html",
@@ -44,10 +40,6 @@
                 "path": "./snippets/nuxt-config.json"
               },
               {
-                "language": "javascript",
-                "path": "./snippets/nuxt-script.json"
-              },
-              {
                 "language": "typescript",
                 "path": "./snippets/vue-script.json"
               },
@@ -58,10 +50,6 @@
               {
                 "language": "typescript",
                 "path": "./snippets/vue-script-router.json"
-              },
-              {
-                "language": "typescript",
-                "path": "./snippets/nuxt-config.json"
               }
         ]
     }
